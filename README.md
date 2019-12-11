@@ -15,20 +15,20 @@ Driving to needed point
 :param speed: Speed to drive if self_speed == True  
 :return: None  
   
-#### robotino.position_reached
+### robocad.position_reached
 Returns True if position reached  
    
-#### robotino.drive_system(tuple)
+### robocad.drive_system(tuple)
 Drive system includes 3 motors
 Program will be faster if you use this but not each motors (drive_m1-3)  
   
 :param tup: Tuple of speeds to motors (range from -300 to 300)  
 :return: None  
 
-#### robotino.get_coords()  
+### robocad.get_coords()  
 Function that returns tuple of coordinates (not sure that they are correct)  
 
-#### robotino.center_sensor()
+### robocad.center_sensor()
 Function that returns distanse from robot's center to the red tetragon  
 
 
