@@ -140,10 +140,10 @@ Saving image like image from robocad camera
 :param st: Name of image  
 :return: None  
 
-### check this one  
+#### check this one  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/bez_ugla.png)  
-### yeah it is under drugs  
-### and one more image that show you how is robocad sees field  
+#### yeah it is under drugs  
+#### and one more image that show you how is robocad sees field  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/where_1.6.png)  
 
 ### robocad.left_sharp()  
@@ -170,5 +170,5 @@ Distance from right ultrasonic sensor
 
 :return: Distance (float)  
 
-### and the sensors seems like... jedi(?) (shakaled 30%)  
+#### and the sensors seems like... jedi(?) (shakaled 30%)  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/sensors.jpg)
