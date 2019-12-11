@@ -38,14 +38,14 @@ Function that returns tuple of coordinates (not sure that they are correct)
 ### robocad.center_sensor()
 Function that returns distanse from robot's center to the red tetragon  
 
-### robotino.transfunc_vitality(array, value)
+### robocad.transfunc_vitality(array, value)
 Not moronic transfer function powered by Coda (Vitality)
 
 :param array: Input 2D array (1D array includes input and output values) like: [[1, 11], [2, 12], [3, 13]]  
 :param value: Input of value to conversion by transfer function  
 :return: Output is conversed input  
 
-### robotino.in_range(val, min_v, max_v)
+### robocad.in_range(val, min_v, max_v)
 Func that checks that value in range min and max
 
 :param val: Value that needs to check  
@@ -53,39 +53,39 @@ Func that checks that value in range min and max
 :param max_v: Max limit  
 :return: Value in range  
 
-### robotino.sign(val)
+### robocad.sign(val)
 Retuns sign of val
 
 :param val: Input value  
 :return: Sign of input value  
 
-### robotino.sigmoid(val)
+### robocad.sigmoid(val)
 Simple rational sigmoid
 
 :param val: Input value  
 :return: Sigmoided (?) value  
 
-### robotino.front_sensor()
+### robocad.front_sensor()
 Function that returns distance from the front of robocad to one of the red wall
 
 :return: Distance (Float)
 
-### robotino.reset_coords()
+### robocad.reset_coords()
 Zeroing coordinates
 
 :return: None
 
-### robotino.reset_gyro()
+### robocad.reset_gyro()
 Zeroing gyro
 
 :return: None
 
-### robotino.reset_all()
+### robocad.reset_all()
 Zeroing gyro and coordinates
 
 :return: None
 
-### robotino.drive_m1-3(speed)
+### robocad.drive_m1-3(speed)
 Speed to the right, left and back motors
 
 :param speed: Needed speed (range from -300 to 300)  
@@ -101,7 +101,7 @@ Variable that stores time of start program
 
 :return: Start time    
 
-### robotino.get_image_path(im_name: str, start_x: int, start_y: int, infelicity=14, dispersion=3, is_start=True, power=3, reverse_x=False, reverse_y=True, number_in_arr=10, start_dis=3, slowly=True)  
+### robocad.get_image_path(im_name: str, start_x: int, start_y: int, infelicity=14, dispersion=3, is_start=True, power=3, reverse_x=False, reverse_y=True, number_in_arr=10, start_dis=3, slowly=True)  
 
 Getting b/w image with black line by which it will drive
 
@@ -119,14 +119,14 @@ Getting b/w image with black line by which it will drive
 :param slowly: If True start_dis will go to dispersion by adding 2  
 :return: Path includes array of tuples coords like [(0, 0), (9, 18), (4, 82)]  
 
-### robotino.drive_by_image(arr: array)
+### robocad.drive_by_image(arr: array)
 
 Func to drive by image
 
 :param arr: Path array  
 :return: None  
 
-### robotino.drive_by_axis(tup: tuple)
+### robocad.drive_by_axis(tup: tuple)
 
 Func to drive by axis X, Y and rotate
 
