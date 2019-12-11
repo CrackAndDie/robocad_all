@@ -6,8 +6,15 @@ At first you need to open IDLE in the folder called **"gui"** and start **"gui.e
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**   
 
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/cad_low_d.png)
+### at first it is a specific syntax
+You need to write **do-while** sentences like  
+```python 
+do {
+    your program
+} while (condition)
+```  
 ## all available functions  
-#### robotino.drive_to_point(tup, self_speed=False, speed=5)
+### robotino.drive_to_point(tup, self_speed=False, speed=5)
 Driving to needed point  
 
 :param tup: Tuple of X, Y and Omega  
