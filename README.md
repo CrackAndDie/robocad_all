@@ -172,3 +172,38 @@ Distance from right ultrasonic sensor
 
 #### and the sensors seems like... jedi(?) (shakaled 30%)  
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/sensors.jpg)
+
+## on gui
+
+### view_scale
+view window scale
+
+### robocad_x
+X coordinate of robocad
+
+### robocad_y
+Y coordinate of robocad
+
+### rotation
+robocad' rotation
+
+### pos_reached
+True if position reached
+
+### fps_view
+view window' fps
+
+### right_us
+right ultrasonic' distance
+
+### left_us
+left ultrasonic' distance
+
+### right_psd
+right sharp' distance
+
+### left_psd
+right sharp' distance
+
+### output_var_1-3
+you can pass the value of a variable and see it
