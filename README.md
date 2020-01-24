@@ -174,6 +174,15 @@ Distance from right ultrasonic sensor
 ![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/sensors.jpg)
 
 ## on gui
+###       functions
+
+### Default scale
+return view window scale to default
+
+### Output terminal
+self output terminal
+
+###       left row
 
 ### view_scale
 view window scale
