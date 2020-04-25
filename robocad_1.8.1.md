@@ -147,7 +147,8 @@ Distance from right ultrasonic sensor
 #### and the sensors seems like... jedi(?) (shakaled 30%)  
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/sensors.jpg)
 
-## on gui
+<h2 align="center">On GUI</h2> 
+  
 ###       functions
 
 ### Default scale
@@ -190,9 +191,9 @@ right sharp' distance
 
 ### output_var_1-3
 you can pass the value of a variable and see it
-
-## on funcad  
-
+  
+<h2 align="center">On FUNCAD</h2> 
+  
 ### funcad.transfunc_vitality(array, value)
 Not moronic transfer function powered by Coda (Vitality)
 
