@@ -263,4 +263,13 @@ Powered by Coda (Vitality)
 
 :param arr: Input 2D array (1D array includes input and output values) like: [[1, 11], [2, 12], [3, 13]]  
 :param val: Input of value to conversion by transfer function  
-:return: Output is conversed input  
+:return: Output is conversed input 
+
+### robocad.cutter(val: float, min_v: float, max_v: float)  
+Cuts value to range  
+
+:param val: Value  
+:param min_v: Minimal value  
+:param max_v: Maximum value  
+:return: Cut value  
+
