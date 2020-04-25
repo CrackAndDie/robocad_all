@@ -227,6 +227,10 @@ right sharp' distance
 
 #### output_var_1-3
 you can pass the value of a variable and see it
+
+<h2>Program Panel</h2>  
+
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/prog_panel.jpg)
   
 <h2 align="center">On FUNCAD</h2> 
   
