@@ -238,12 +238,14 @@ Auto adding close brackets
 <h2>Front Panel</h2>  
 
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/front_panel.jpg)  
+Open with ctrl+e
 Information like in program panel  
 3 buttons: Pause, Start, Stop  
 
 <h2>IO Panel</h2>  
 
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/io_panel.jpg)  
+Open with ctrl+b
 Output text field  
 Slider to change sizes of fields  
 Input text field  
