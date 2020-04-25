@@ -13,7 +13,9 @@ do {
     your program
 } while (condition)
 ```  
-## all available functions  
+<p align="center">
+## all available functions 
+</p>
 ### robotino.drive_to_point(tup, self_speed=False, speed=5)
 Driving to needed point  
 
