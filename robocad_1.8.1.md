@@ -149,7 +149,7 @@ Distance from right ultrasonic sensor
 
 <h2 align="center">On GUI</h2> 
   
-   <h3 align="center">Functions</h3> 
+    <h3>Functions</h3> 
 
 ### Default scale
 return view window scale to default
