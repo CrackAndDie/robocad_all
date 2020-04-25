@@ -5,7 +5,7 @@ My project with mine idle for visual robot
 At first you need to open IDLE in the folder called **"gui"** and start **"gui.exe"**  
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**   
 
-![](https://github.com/CrackAndDie/robocad_all/blob/master/cad_low_d.png)
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/cad_low_d.png)
 ## at first it is a specific syntax
 You need to write **do-while** sentences like  
 ```python 
@@ -115,10 +115,10 @@ Saving image like image from robocad camera
 :return: None  
 
 #### check this one  
-![](https://github.com/CrackAndDie/robocad_all/blob/master/bez_ugla.png)  
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/bez_ugla.png)  
 #### yeah it is under drugs  
 #### and one more image that show you how is robocad sees field  
-![](https://github.com/CrackAndDie/robocad_all/blob/master/where_1.6.png)  
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/where_1.6.png)  
 
 ### robocad.left_sharp()  
 
@@ -145,7 +145,7 @@ Distance from right ultrasonic sensor
 :return: Distance (float)  
 
 #### and the sensors seems like... jedi(?) (shakaled 30%)  
-![](https://github.com/CrackAndDie/robocad_all/blob/master/sensors.jpg)
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/sensors.jpg)
 
 <h2 align="center">On GUI</h2> 
   
