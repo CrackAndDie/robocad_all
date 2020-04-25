@@ -256,3 +256,11 @@ Simple rational sigmoid
 
 :param val: Input value  
 :return: Sigmoided (?) value  
+
+### funcad.transfunc(arr: list, val: float)  
+Not moronic transfer function  
+Powered by Coda (Vitality)  
+
+:param arr: Input 2D array (1D array includes input and output values) like: [[1, 11], [2, 12], [3, 13]]  
+:param val: Input of value to conversion by transfer function  
+:return: Output is conversed input  
