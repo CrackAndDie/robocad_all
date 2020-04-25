@@ -153,44 +153,44 @@ Distance from right ultrasonic sensor
 
 <h3>File</h3> 
 
-### New
+#### New
 create new file
 
-### Open
+#### Open
 open file
 
-### Save
+#### Save
 save file
 
-### Save as copy
+#### Save as copy
 save the file as copy
 
 <h3>Edit</h3> 
 
-### Output terminal
+#### Output terminal
 terminal to print output (do not use it, use ctrl+b)
 
-### Right border
+#### Right border
 changes text field's width from 79 simbols to size of window
 
 <h3>Robocad</h3> 
 
-### Run module
+#### Run module
 run your program
 
-### Default scale
+#### Default scale
 return view window scale to default
 
-### Open map
+#### Open map
 open your txt file with description of your objects
 
-### EMS (Pause)
+#### EMS (Pause)
 off power of robocad's motors
 
-### Stop program
+#### Stop program
 stop your program
 
-### Reset robocad
+#### Reset robocad
 restart robocad (view)
 
 <h2>Robocad inforamtion</h2>
