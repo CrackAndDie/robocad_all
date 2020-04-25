@@ -33,37 +33,10 @@ Program will be faster if you use this but not each motors (drive_m1-3)
 :return: None  
 
 ### robocad.get_coords()  
-Function that returns tuple of coordinates (not sure that they are correct)  
+Function that returns tuple of coordinates 
 
 ### robocad.center_sensor()
 Function that returns distanse from robot's center to the red tetragon  
-
-### robocad.transfunc_vitality(array, value)
-Not moronic transfer function powered by Coda (Vitality)
-
-:param array: Input 2D array (1D array includes input and output values) like: [[1, 11], [2, 12], [3, 13]]  
-:param value: Input of value to conversion by transfer function  
-:return: Output is conversed input  
-
-### robocad.in_range(val, min_v, max_v)
-Func that checks that value in range min and max
-
-:param val: Value that needs to check  
-:param min_v: Min limit  
-:param max_v: Max limit  
-:return: Value in range  
-
-### robocad.sign(val)
-Retuns sign of val
-
-:param val: Input value  
-:return: Sign of input value  
-
-### robocad.sigmoid(val)
-Simple rational sigmoid
-
-:param val: Input value  
-:return: Sigmoided (?) value  
 
 ### robocad.front_sensor()
 Function that returns distance from the front of robocad to one of the red wall
@@ -216,3 +189,32 @@ right sharp' distance
 
 ### output_var_1-3
 you can pass the value of a variable and see it
+
+## on funcad  
+
+### funcad.transfunc_vitality(array, value)
+Not moronic transfer function powered by Coda (Vitality)
+
+:param array: Input 2D array (1D array includes input and output values) like: [[1, 11], [2, 12], [3, 13]]  
+:param value: Input of value to conversion by transfer function  
+:return: Output is conversed input  
+
+### funcad.in_range(val, min_v, max_v)
+Func that checks that value in range min and max
+
+:param val: Value that needs to check  
+:param min_v: Min limit  
+:param max_v: Max limit  
+:return: Value in range  
+
+### funcad.sign(val)
+Retuns sign of val
+
+:param val: Input value  
+:return: Sign of input value  
+
+### funcad.sigmoid(val)
+Simple rational sigmoid
+
+:param val: Input value  
+:return: Sigmoided (?) value  
