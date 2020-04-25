@@ -15,7 +15,7 @@ do {
 ```  
 <h2 align="center">On VIEW</h2> 
   
-### robotino.drive_to_point(tup, self_speed=False, speed=5)
+### robocad.drive_to_point(tup, self_speed=False, speed=5)
 Driving to needed point  
 
 :param tup: Tuple of X, Y and Omega  
@@ -149,7 +149,7 @@ Distance from right ultrasonic sensor
 
 <h2 align="center">On GUI</h2> 
   
-###       functions
+   <h3 align="center">Functions</h3> 
 
 ### Default scale
 return view window scale to default
@@ -159,37 +159,37 @@ self output terminal
 
 ###       left row
 
-### view_scale
+#### view_scale
 view window scale
 
-### robocad_x
+#### robocad_x
 X coordinate of robocad
 
-### robocad_y
+#### robocad_y
 Y coordinate of robocad
 
-### rotation
+#### rotation
 robocad' rotation
 
-### pos_reached
+#### pos_reached
 True if position reached
 
-### fps_view
+#### fps_view
 view window' fps
 
-### right_us
+#### right_us
 right ultrasonic' distance
 
-### left_us
+#### left_us
 left ultrasonic' distance
 
-### right_psd
+#### right_psd
 right sharp' distance
 
-### left_psd
+#### left_psd
 right sharp' distance
 
-### output_var_1-3
+#### output_var_1-3
 you can pass the value of a variable and see it
   
 <h2 align="center">On FUNCAD</h2> 
