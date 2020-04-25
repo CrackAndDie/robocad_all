@@ -13,7 +13,7 @@ do {
     your program
 } while (condition)
 ```  
-<h2 align="center">On VIEW</h2> 
+<h2 align="center">VIEW</h2> 
   
 ### robocad.drive_to_point(tup, self_speed=False, speed=5)
 Driving to needed point  
@@ -147,7 +147,7 @@ Distance from right ultrasonic sensor
 #### and the sensors seems like... jedi(?) (shakaled 30%)  
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/sensors.jpg)
 
-<h2 align="center">On GUI</h2> 
+<h2 align="center">GUI</h2> 
   
 <h2>Functions</h2> 
 
@@ -238,19 +238,19 @@ Auto adding close brackets
 <h2>Front Panel</h2>  
 
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/front_panel.jpg)  
-Open with ctrl+e
+Open with ctrl+e  
 Information like in program panel  
 3 buttons: Pause, Start, Stop  
 
 <h2>IO Panel</h2>  
 
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/io_panel.jpg)  
-Open with ctrl+b
+Open with ctrl+b  
 Output text field  
 Slider to change sizes of fields  
 Input text field  
   
-<h2 align="center">On FUNCAD</h2> 
+<h2 align="center">FUNCAD</h2> 
   
 ### funcad.transfunc_vitality(array, value)
 Not moronic transfer function powered by Coda (Vitality)
