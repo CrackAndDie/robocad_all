@@ -29,7 +29,7 @@ Returns True if position reached
 Drive system includes 3 motors
 Program will be faster if you use this but not each motors (drive_m1-3)  
   
-:param tup: Tuple of speeds to motors (range from -300 to 300)  
+:param tup: Tuple of speeds to motors  
 :return: None  
 
 ### robocad.get_coords()  
