@@ -230,7 +230,17 @@ you can pass the value of a variable and see it
 
 <h2>Program Panel</h2>  
 
-![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/prog_panel.jpg)
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/prog_panel.jpg)  
+Label with name of your file (if name is red - file is not saved)  
+Backlight known words  
+Auto adding close brackets  
+
+<h2>Front Panel</h2>  
+
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/front_panel.jpg)  
+Label with name of your file (if name is red - file is not saved)  
+Backlight known words  
+Auto adding close brackets  
   
 <h2 align="center">On FUNCAD</h2> 
   
