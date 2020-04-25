@@ -145,7 +145,30 @@ Distance from right ultrasonic sensor
 :return: Distance (float)  
 
 #### and the sensors seems like... jedi(?) (shakaled 30%)  
-![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/sensors.jpg)
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/sensors.jpg)  
+
+### rcadout(st, end='')  
+
+Print to console in IO panel  
+
+:param st: String to print  
+:param end: end of string for example \n or \t  
+:return: None  
+
+### rcadin()  
+
+Returns input from IO panel  
+
+You need to write code like this:  
+
+```python 
+do {
+    robocad.inp = rcadin()
+} while(glob_input is None)
+do {
+    rcadout(robocad.inp)
+} while(False)
+``` 
 
 <h2 align="center">GUI</h2> 
   
