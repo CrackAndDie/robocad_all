@@ -238,9 +238,15 @@ Auto adding close brackets
 <h2>Front Panel</h2>  
 
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/front_panel.jpg)  
-Label with name of your file (if name is red - file is not saved)  
-Backlight known words  
-Auto adding close brackets  
+Information like in program panel  
+3 buttons: Pause, Start, Stop  
+
+<h2>IO Panel</h2>  
+
+![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/io_panel.jpg)  
+Output text field  
+Slider to change sizes of fields  
+Input text field  
   
 <h2 align="center">On FUNCAD</h2> 
   
