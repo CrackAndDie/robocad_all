@@ -5,7 +5,7 @@ My project with mine idle for visual robot
 At first you need to open IDLE in the folder called **"gui"** and start **"gui.exe"**  
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**   
 
-![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/cad_low_d.png)
+![](https://github.com/CrackAndDie/robocad_all/blob/master/cad_low_d.png)
 ## at first it is a specific syntax
 You need to write **do-while** sentences like  
 ```python 
@@ -171,7 +171,7 @@ Distance from right ultrasonic sensor
 :return: Distance (float)  
 
 #### and the sensors seems like... jedi(?) (shakaled 30%)  
-![](https://github.com/CrackAndDie/gitcad_python_private/blob/master/Yandex/sensors.jpg)
+![](https://github.com/CrackAndDie/robocad_all/blob/master/sensors.jpg)
 
 ## on gui
 ###       functions
