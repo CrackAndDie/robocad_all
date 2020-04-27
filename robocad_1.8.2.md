@@ -116,7 +116,6 @@ Saving image like image from robocad camera
 
 #### check this one  
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/bez_ugla.png)  
-#### yeah it is under drugs  
 #### and one more image that show you how is robocad sees field  
 ![](https://github.com/CrackAndDie/robocad_all/blob/master/pics/where_1.6.png)  
 
