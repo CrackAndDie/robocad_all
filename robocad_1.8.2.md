@@ -204,7 +204,8 @@ run your program
 return view window scale to default
 
 #### Open map
-open your txt file with description of your objects
+open your txt file with description of your objects  
+for example: https://github.com/CrackAndDie/robocad/blob/available_1.8.2/gui/self_map1.txt
 
 #### EMS (Pause)
 off power of robocad's motors
